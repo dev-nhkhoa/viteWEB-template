@@ -1,6 +1,9 @@
 dist
 dist-ssr
 *.local
+package-lock.json
+pnpm-lock.yaml
+
 
 # dependencies
 /node_modules

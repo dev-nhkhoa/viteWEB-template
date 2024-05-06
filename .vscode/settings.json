@@ -4,5 +4,17 @@
   },
   "files.associations": {
     "*.css": "tailwindcss"
-  }
+  },
+  "prettier.endOfLine": "auto",
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 110,
+  "prettier.quoteProps": "consistent",
+  "prettier.semi": true,
+  "css.completion.completePropertyWithSemicolon": true,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": true,
+  "javascript.format.semicolons": "insert",
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": true,
+  "editor.acceptSuggestionOnCommitCharacter": true,
+  "typescript.format.semicolons": "insert"
 }
